@@ -3,7 +3,193 @@
 # https://github.com/869386072406849/mentoring
 # https://github.com/869386072406849/openSUSE-release-tools
 # https://github.com/869386072406849/software-o-o
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
 
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://developer.android.com/_static/images/translated.svg?hl=th" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Google ใช้เทคโนโลยี AI เพื่อแปลเนื้อหาเป็นภาษาที่คุณต้องการ การแปลโดย AI อาจมีข้อผิดพลาดSwitch to English</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://developer.android.com/static/images/android-5g/logo-android-5g.svg?hl=th" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3,"className":"hide-from-toc no-link"} -->
+<h3 class="wp-block-heading hide-from-toc no-link" id="android-5g">Android 5G</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ยกระดับแอปไปอีกขั้นและกำหนดประสบการณ์ของผู้ใช้ใหม่ด้วยการใช้ความสามารถของ 5G</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3,"className":"hide-from-toc no-link"} -->
+<h3 class="wp-block-heading hide-from-toc no-link" id="5g">เปลี่ยนโฉมแอปด้วย 5G</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ในร่ม &gt; กลางแจ้ง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"hide-from-toc no-link"} -->
+<h3 class="wp-block-heading hide-from-toc no-link" id="4LmA4Lib4Lil4Li14LmI4Lii4LiZ4LiB4Lij4LiT4Li14LiB4Liy4Lij4LmD4LiK4LmJ4LiH4Liy4LiZ4LmD4LiZ4Lit4Liy4LiE4Liy4Lij4LmA4Lib4LmH4LiZ4LiB4Lij4LiT4Li14LiB4Liy4Lij4LmD4LiK4LmJ4LiH4Liy4LiZ4LiB4Lil4Liy4LiH4LmB4LiI4LmJ4LiH"><a href="https://developer.android.com/training/connectivity/5g/enhance-with-5g?hl=th#indoor-outdoor" class="android-fully-clickable-link">เปลี่ยนกรณีการใช้งานในอาคารเป็นกรณีการใช้งานกลางแจ้ง</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>วิดีโอแชทได้ทุกที่ทุกเวลา ดาวน์โหลดสิ่งที่ต้องการได้ทันที เล่นเกมที่มีผู้เล่นหลายคนได้ทุกที่</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>AR รูปภาพ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"hide-from-toc no-link"} -->
+<h3 class="wp-block-heading hide-from-toc no-link" id="ux-ux-ar"><a href="https://developer.android.com/training/connectivity/5g/enhance-with-5g?hl=th#photo-ar" class="android-fully-clickable-link">เปลี่ยน UX ที่เน้นรูปภาพให้กลายเป็น UX ที่เน้นวิดีโอหรือ AR</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>อัปเกรดประสบการณ์ของผู้ใช้ด้วยการเปลี่ยนรูปภาพเป็นวิดีโอและการใช้เทคโนโลยีความจริงเสริมใน UX</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ดึงข้อมูลล่วงหน้า</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"hide-from-toc no-link"} -->
+<h3 class="wp-block-heading hide-from-toc no-link" id="4LmB4Liq4LiU4LiH4Lic4Lil4Lil4LmI4Lin4LiH4Lir4LiZ4LmJ4Liy4Lit4Lii4LmI4Liy4LiH4Lih4Li14Lib4Lij4Liw4LmC4Lii4LiK4LiZ4LmMOiDguKrguKPguYnguLLguIfguITguKfguLLguKHguJ7guLbguIfguJ7guK3guYPguIjguYHguJfguJnguIHguLLguKPguJrguLHguJ_guYDguJ_guK3guKPguYwK"><a href="https://developer.android.com/training/connectivity/5g/enhance-with-5g?hl=th#prefetch" class="android-fully-clickable-link">แสดงผลล่วงหน้าอย่างมีประโยชน์: สร้างความพึงพอใจแทนการบัฟเฟอร์</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ใช้แบนด์วิดท์ที่เพิ่มขึ้นเพื่อดึงข้อมูลเนื้อหาล่วงหน้า ซึ่งจะช่วยเพิ่มความตอบสนองของแอปได้มากขึ้น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>เฉพาะกลุ่ม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"hide-from-toc no-link"} -->
+<h3 class="wp-block-heading hide-from-toc no-link" id="use-case-use-case"><a href="https://developer.android.com/training/connectivity/5g/enhance-with-5g?hl=th#niche" class="android-fully-clickable-link">เปลี่ยน Use Case เฉพาะกลุ่มให้กลายเป็น Use Case หลัก</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>เนื้อหาสตรีมมิงในเครือข่ายเก่าเป็นข้อยกเว้น เปลี่ยนให้สตรีมมิงเนื้อหาเป็นที่นิยมหลักด้วย 5G</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="5g">การสร้างเพื่อรองรับ 5G&nbsp;</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://developer.android.com/static/images/android-5g/meterdness.svg?hl=th" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3,"className":"hide-from-toc no-link"} -->
+<h3 class="wp-block-heading hide-from-toc no-link" id="4LiV4Lij4Lin4LiI4Liq4Lit4Lia4LiB4Liy4Lij4Lin4Lix4LiU">ตรวจสอบการวัด</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://developer.android.com/about/versions/11/features/5g?hl=th#meteredness" class="button android-fully-clickable-link">อ่านเพิ่มเติม</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://developer.android.com/static/images/android-5g/5g-connections.svg?hl=th" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3,"className":"hide-from-toc no-link"} -->
+<h3 class="wp-block-heading hide-from-toc no-link" id="5g">ตรวจหาการเชื่อมต่อ 5G</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://developer.android.com/about/versions/11/features/5g?hl=th#detection" class="button android-fully-clickable-link">อ่านเพิ่มเติม</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://developer.android.com/static/images/android-5g/bandwidth.svg?hl=th" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3,"className":"hide-from-toc no-link"} -->
+<h3 class="wp-block-heading hide-from-toc no-link" id="4Lib4Lij4Liw4Lih4Liy4LiT4LmB4Lia4LiZ4LiU4LmM4Lin4Li04LiU4LiX4LmM4LiC4Lit4LiH4Lic4Li54LmJ4LmD4LiK4LmJCg==">ประมาณแบนด์วิดท์ของผู้ใช้</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://developer.android.com/about/versions/11/features/5g?hl=th#estimator" class="button android-fully-clickable-link">อ่านเพิ่มเติม</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://developer.android.com/static/images/android-5g/emulator-support.svg?hl=th" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3,"className":"hide-from-toc no-link"} -->
+<h3 class="wp-block-heading hide-from-toc no-link" id="android">การรองรับโปรแกรมจำลองของ Android</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://developer.android.com/about/versions/11/behavior-changes-all?hl=th#emulator-5g" class="button android-fully-clickable-link">อ่านเพิ่มเติม</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="4LiC4LmI4Liy4Lin4Liq4Liy4Lij4Lil4LmI4Liy4Liq4Li44LiU">ข่าวสารล่าสุด&nbsp;</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"devsite-label devsite-label-youtube"} -->
+<p class="devsite-label devsite-label-youtube">YouTube<a href="https://www.youtube.com/watch?v=hhb5HqjfstI&amp;hl=th">5G: The Next Generation - Interview with AT&amp;T</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"devsite-card-date"} -->
+<p class="devsite-card-date">Updated 6 ตุลาคม ค.ศ. 2020</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"devsite-card-summary"} -->
+<p class="devsite-card-summary">Android Developer interview featuring Jay Cary, VP of 5G Marketing &amp;amp; Development at AT&amp;amp;T, talking about how AT&amp;amp;T is leading the way in the 5G revolution and what they’ve built to excite their customer base. Android 5G →</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a class="devsite-card-image-container devsite-card-image-no-background" href="https://www.youtube.com/watch?v=kfSHVFhNR6g&amp;hl=th"><img src="https://i.ytimg.com/vi/kfSHVFhNR6g/maxresdefault.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"devsite-label devsite-label-youtube"} -->
+<p class="devsite-label devsite-label-youtube">YouTube<a href="https://www.youtube.com/watch?v=kfSHVFhNR6g&amp;hl=th">5G: The Next Generation - Interview with Tubi</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"devsite-card-date"} -->
+<p class="devsite-card-date">Updated 6 ตุลาคม ค.ศ. 2020</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"devsite-card-summary"} -->
+<p class="devsite-card-summary">Android Developer interview featuring Marios Assiotis, CTO of Tubi, talking about how Tubi is taking advantage of 5G to improve the video watching experience for users. Android 5G → https://goo.gle/3cnPehP Games &amp;amp; Media - 11 Weeks of Android</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a class="devsite-card-image-container devsite-card-image-no-background" href="https://android-developers.googleblog.com/2020/08/11-weeks-of-android-games-media-and-5g.html"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibkSKTCeE3wpYmuvXqEwmYn4ZFQROrnhdqNDZQEawjmkK697Aub6t-xApt8HD26anDSsk8IoucOWR_kssKcYNQ7ZOklx2GZGE_FpZkdJs99y08mhGPiy5wHePX4QW_7DYRwX6eQd-RbEM/s1600/week10.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"devsite-label devsite-label-blogger"} -->
+<p class="devsite-label devsite-label-blogger">Blog<a href="https://android-developers.googleblog.com/2020/08/11-weeks-of-android-games-media-and-5g.html">11 Weeks of Android: Games, media, and 5G</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"devsite-card-date"} -->
+<p class="devsite-card-date">Updated 22 สิงหาคม ค.ศ. 2020</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"devsite-card-summary"} -->
+<p class="devsite-card-summary">This blog post is part of a weekly series for #11WeeksOfAndroid. For each of the #11WeeksOfAndroid, we’re diving into key areas so you don’t miss anything. This week, we spotlighted games, media, and 5G; here’s a look at what you should know. What's</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ตัวอย่างเนื้อหาและโค้ดในหน้าเว็บนี้ขึ้นอยู่กับใบอนุญาตที่อธิบายไว้ใน<a href="https://developer.android.com/license?hl=th">ใบอนุญาตการใช้เนื้อหา</a>&nbsp;Java และ OpenJDK เป็นเครื่องหมายการค้าหรือเครื่องหมายการค้าจดทะเบียนของ Oracle และ/หรือบริษัทในเครือ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>อัปเดตล่าสุด 2025-01-14 UTC</p>
+<!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p><a class="uhf-skip-link" href="https://www.microsoft.com/th-th/software-download/windows11#mainContent">ข้ามไปที่เนื้อหาหลัก</a></p>
 <!-- /wp:paragraph -->
