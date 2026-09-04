@@ -1,4 +1,6 @@
 # openSUSE
+# https://github.com/869386072406849/openSUSEway
+# https://github.com/869386072406849/mentoring
 # https://github.com/869386072406849/openSUSE-release-tools
 # https://github.com/869386072406849/software-o-o
 
