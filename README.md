@@ -1,4 +1,7 @@
 # openSUSE
+# https://github.com/869386072406849/openSUSE-release-tools
+# https://github.com/869386072406849/software-o-o
+
 <!-- wp:paragraph -->
 <p><a class="uhf-skip-link" href="https://www.microsoft.com/th-th/software-download/windows11#mainContent">ข้ามไปที่เนื้อหาหลัก</a></p>
 <!-- /wp:paragraph -->
